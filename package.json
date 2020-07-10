@@ -1,0 +1,14 @@
+{
+  "name": "scrapy-wed",
+  "version": "1.0.0",
+  "description": "Web Scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.0.0"
+  }
+}
