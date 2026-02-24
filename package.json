@@ -9,6 +9,6 @@
   "author": "Alexander",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^5.0.0"
+    "puppeteer": "^24.37.5"
   }
 }
